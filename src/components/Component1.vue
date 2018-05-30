@@ -19,6 +19,7 @@
     }
 </style>
 <script>
+import {EventBus} from './EventBus.vue';
 export default {
 
 }
